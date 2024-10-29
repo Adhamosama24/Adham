@@ -1,5 +1,5 @@
 
-var typed = new Typed(".text", {
+var typed = new Typed("text", {
     strings: ["Data Analysis" , "Programming" , "business intelligence"],
     typeSpeed:100,
     backSpeed:100,
