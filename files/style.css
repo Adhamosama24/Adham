@@ -1043,16 +1043,16 @@ body {
         content: "90%";
     }
     .bar .info .addcss::before{
-        content: "80%";
+        content: "90%";
     }
     .bar .info .addpy::before{
         content: "75%";
     }
     .bar .info .addjava::before{
-        content: "50%";
+        content: "85%";
     }
     .bar .info .addc::before{
-        content: "50%";
+        content: "70%";
     }
 
     /*project*/
@@ -1212,16 +1212,16 @@ body {
         content: "90%";
     }
     .bar .info .addcss::before{
-        content: "80%";
+        content: "90%";
     }
     .bar .info .addpy::before{
         content: "75%";
     }
     .bar .info .addjava::before{
-        content: "50%";
+        content: "85%";
     }
     .bar .info .addc::before{
-        content: "50%";
+        content: "70%";
     }
 
     /*project*/
