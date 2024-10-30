@@ -365,7 +365,7 @@ body {
 }
 
 .progress-line.java span {
-    width: 50%;
+    width: 75%;
 }
 
 .progress-line.cpls span {
@@ -398,7 +398,7 @@ body {
 }
 
 .progress-line.java span::after {
-    content: "50%";
+    content: "75%";
 }
 
 .progress-line.cpls span::after {
